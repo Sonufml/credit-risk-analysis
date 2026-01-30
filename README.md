@@ -18,6 +18,6 @@ This project analyzes real-world loan data to identify factors associated with l
 - Small business loans exhibit the highest default risk among loan purposes.
 
 ## Sample Visualizations
-![Income vs Default](images/Income default rate.png)
-![Interest Rate vs Default](images/Interest default rate.png)
-![Loan Purpose vs Default](images/Loan default rate.png)
+![Income vs Default](images/income_default.png)
+![Interest Rate vs Default](images/interest_default.png)
+![Loan Purpose vs Default](images/purpose_default.png)
