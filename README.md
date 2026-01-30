@@ -9,7 +9,7 @@ This project analyzes real-world loan data to identify factors associated with l
 - Are certain loan purposes riskier than others?
 
 ## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, Matplotlib)
 - Jupyter / Google Colab
 
 ## Key Findings
