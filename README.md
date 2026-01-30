@@ -19,5 +19,5 @@ This project analyzes real-world loan data to identify factors associated with l
 
 ## Sample Visualizations
 ![Income vs Default](images/income_default.png)
-![Interest Rate vs Default](images/interest_defult.png)
+![Interest Rate vs Default](images/interest_deafult.png)
 ![Loan Purpose vs Default](images/purpose_default.png)
